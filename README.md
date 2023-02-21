@@ -1,6 +1,6 @@
 # Advanced_Robot_programming
 this repository includes 3 projects (first,second and third assignment) related to aforementioned course "advanced robot programming" by professor Zaccaria held in 2021 at the University of Genova,Italy.
-all the work has been carried out in a group structure consisting Celestie Gladys , Elham Mohammadi , Tahmine Tabarestani.
+all the work has been carried out in a group structure consisting Celestie Gladys , Elham Mohammadi , Tahmine Tabarestani , with the name of CET.
 you can find a problem and its solution inside of each file.
 
 #How to run the projects
