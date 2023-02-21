@@ -4,6 +4,7 @@ all the work has been carried out in a group structure consisting Celestie Glady
 you can find a problem and its solution inside of each file.
 
 #How to run the projects
+
 1.Download and unzip the folder in your workspace.
 2.open a linux based terminal like Ubuntu (becuase the project runs in real_time) then with "cd" command go inside of each source folder you prefer to run (it is easier to go inside the folder manually and right-click,select "open in a terminal" ,with this approach you do not need to type cd command several times) or do cd/path/to/your/executable once if you know the path by heart!!!.
 3.compile the file with "gcc filename.c -o newfilename"
